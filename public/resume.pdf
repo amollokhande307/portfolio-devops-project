@@ -1,0 +1,78 @@
+%PDF-1.4
+% Simple placeholder PDF for resume download functionality. Please replace with a custom PDF for production use.
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << >> >>
+endobj
+4 0 obj
+<< /Length 5 0 R >>
+stream
+BT
+/F1 24 Tf
+70 750 Td
+(Amol Lokhande - Cloud & DevOps Engineer) Tj
+/F1 16 Tf
+70 720 Td
+(Email: amollokhande8999@gmail.com) Tj
+70 700 Td
+(LinkedIn: linkedin.com/in/amol-lokhande-382976361) Tj
+70 680 Td
+(GitHub: github.com/amollokhande307) Tj
+/F1 18 Tf
+70 650 Td
+(Portfolio Projects:) Tj
+/F1 14 Tf
+70 630 Td
+(- Docker in Docker (DinD)) Tj
+70 610 Td
+(- Flask Inside Docker) Tj
+70 590 Td
+(- AI-Powered Multi-Tech Tool) Tj
+70 570 Td
+(- Video Recording + Email System) Tj
+70 550 Td
+(- Grocery Store Finder) Tj
+70 530 Td
+(- Email Sender App) Tj
+70 510 Td
+(- Twilio Communication App) Tj
+70 490 Td
+(- Twitter Client (Tweepy)) Tj
+70 470 Td
+(- All-in-One Communication App) Tj
+70 450 Td
+(- System RAM Monitor) Tj
+70 430 Td
+(- Stock Market Viewer) Tj
+70 410 Td
+(- Automated a CI/CD Pipeline with Jenkins, Docker & GitHub) Tj
+/F1 18 Tf
+70 380 Td
+(Skills:) Tj
+/F1 14 Tf
+70 360 Td
+(- Python, JavaScript, AWS, Docker, Kubernetes, Linux, Flask, Streamlit, Git, APIs) Tj
+ET
+endstream
+endobj
+5 0 obj
+2560
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000079 00000 n 
+0000000178 00000 n 
+0000000337 00000 n 
+0000001202 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1250
+%%EOF 
